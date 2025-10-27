@@ -30,7 +30,7 @@ Chrome расширение для виртуальной примерки то�
 
 ### 1. Скачайте проект
 ```bash
-git clone https://github.com/your-username/avito-primerka.git
+git clone [https://github.com/your-username/avito-primerka.git](https://github.com/DanilaMilo/avito-primerka.git)
 cd avito-primerka
 ```
 
